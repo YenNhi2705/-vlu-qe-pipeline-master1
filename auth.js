@@ -1,6 +1,6 @@
 function login(username, password) {
   // Tài khoản đúng
-  if (username === "admin" && password === "1234") {
+  if (username === "admin" && password === "123") {
     return true;
   }
 
